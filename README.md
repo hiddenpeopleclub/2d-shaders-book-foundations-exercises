@@ -2,7 +2,7 @@
 
 These are the Unity project files for the exercises in the first book of the 2D Shader Development Book.
 
-If you would like to know more about them and join the Beta-Reading program, please go to http://hiddenpeople.club and sign up.
+If you would like to know more about the books and join the Beta-Reading Team, please go to http://hiddenpeople.club and sign up.
 
 ## Exercise 1 - Endless Scroller Background
 
