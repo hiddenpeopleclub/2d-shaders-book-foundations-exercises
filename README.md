@@ -1,8 +1,6 @@
 # 2D Shader Development Book I - Foundations - Exercises
 
-These are the Unity project files for the exercises in the first book of the 2D Shader Development Book.
-
-If you would like to know more about the books and join the Beta-Reading Team, please go to http://hiddenpeople.club and sign up.
+These are the Unity project files for the exercises in the first book of the [2D Shader Development Book](http://www.2dshaders.com).
 
 ## Exercise 1 - Endless Scroller Background
 
